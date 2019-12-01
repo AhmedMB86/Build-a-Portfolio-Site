@@ -25,7 +25,7 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 
 
 
-#P3_aracade_game 
+# P3_aracade_game 
 
 ## Table of Contents
 
